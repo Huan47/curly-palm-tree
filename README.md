@@ -1,2 +1,2 @@
 # curly-palm-tree
-https://www.facebook.com/share/r/RbgTZiuvWWZB2Dtp/?mibextid=oFDknk
+[![Check dist/](https://github.com/actions/publish-immutable-action/actions/workflows/check-dist.yml/badge.svg)](https://github.com/actions/publish-immutable-action/actions/workflows/check-dist.yml)
